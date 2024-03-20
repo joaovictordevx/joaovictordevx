@@ -1,5 +1,5 @@
 <div>
-   <img src="https://i.pinimg.com/originals/f5/9c/56/f59c56a06262dbe90e0e757e55dc3a19.jpg">
+   <img width="100%" src="https://i.pinimg.com/originals/f5/9c/56/f59c56a06262dbe90e0e757e55dc3a19.jpg">
 </div>
 
 # 📊 Statistics
